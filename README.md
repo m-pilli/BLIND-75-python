@@ -1,4 +1,3 @@
-Blind 75 - Python
 Blind 75 - Daily DSA Practice 🧠💻
 📘 Personal DSA coding journal following the Blind 75 roadmap — problem, approach, and solution in Python.
 

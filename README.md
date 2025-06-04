@@ -14,10 +14,5 @@ I'm using this as:
 A habit tracker for daily coding
 
 A showcase of my DSA preparation
-
-A reference for others learning too!
-
-📅 Start Date: June 1, 2025
-🎯 Goal: 75 problems in 75 days (or faster)
 Stay tuned as I push daily progress! 🔁
 
